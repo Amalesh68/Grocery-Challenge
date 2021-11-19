@@ -60,11 +60,11 @@ function ajax(){//Creating an XHR Object
             // s6[i].style.backgroundColor = "indianred";
             // s7[i].style.backgroundColor = "indianred";
             s1[i].style.textDecoration = "line-through";
-            s2[i].style.textDecoration = "line-through";
-            s3[i].style.textDecoration = "line-through";
-            s4[i].style.textDecoration = "line-through";
-            s5[i].style.textDecoration = "line-through";
-            s6[i].style.textDecoration = "line-through";
+            // s2[i].style.textDecoration = "line-through";
+            // s3[i].style.textDecoration = "line-through";
+            // s4[i].style.textDecoration = "line-through";
+            // s5[i].style.textDecoration = "line-through";
+            // s6[i].style.textDecoration = "line-through";
             
           } else {
             console.log("sno");
