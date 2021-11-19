@@ -52,13 +52,13 @@ function ajax(){//Creating an XHR Object
         for (var i = 0; i < length; i++) {
           if (check[i].checked) {
             console.log(i);
-            s1[i].style.backgroundColor = "indianred";
-            s2[i].style.backgroundColor = "indianred";
-            s3[i].style.backgroundColor = "indianred";
-            s4[i].style.backgroundColor = "indianred";
-            s5[i].style.backgroundColor = "indianred";
-            s6[i].style.backgroundColor = "indianred";
-            s7[i].style.backgroundColor = "indianred";
+            // s1[i].style.backgroundColor = "indianred";
+            // s2[i].style.backgroundColor = "indianred";
+            // s3[i].style.backgroundColor = "indianred";
+            // s4[i].style.backgroundColor = "indianred";
+            // s5[i].style.backgroundColor = "indianred";
+            // s6[i].style.backgroundColor = "indianred";
+            // s7[i].style.backgroundColor = "indianred";
             s1[i].style.textDecoration = "line-through";
             s2[i].style.textDecoration = "line-through";
             s3[i].style.textDecoration = "line-through";
